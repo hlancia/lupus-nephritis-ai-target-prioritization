@@ -1,0 +1,10 @@
+"Feature","Weight"
+"avg_log2FC",1
+"Specificity_Score",1.5
+"Spatial_FC",2
+"Spatial_Score",2
+"Spearman_rho",1.5
+"Correlation_Score",1.5
+"Mouse_Validated",2
+"Communication_Count",1
+"Pathway_Count",1
